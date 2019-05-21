@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main()
+{
+	printf("Hello World!\nCCA\nAPCSP");
+	return 0;
+}
+
+
